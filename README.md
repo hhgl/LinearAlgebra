@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+【[Home](https://simplelp.github.io/)】         
 
-You can use the [editor on GitHub](https://github.com/SimpleLP/LinearAlgebra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+-----------------------------------------------
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimpleLP/LinearAlgebra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 参考资料
+- [清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about)       
+- [清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about)     
+- [理解矩阵—孟岩](https://blog.csdn.net/myan/article/details/647511)       
+- [超详细MIT线性代数公开课笔记(上中下)](https://wenku.baidu.com/view/daac42a977eeaeaad1f34693daef5ef7ba0d129a.html)
+- [杜云涛同学的线性代数笔记](https://zealscott.com/blog/notes-on-linear-algebra/)
+- Linear Algebra Should Done Right, Sheldon Axler
+- 高等代数简明教程， 蓝以中编著
+- 线性代数与矩阵论， 许以超编著
+- [线性代数的本质](https://www.bilibili.com/video/av6731067/)
+- [MIT 线性代数 （公开课）](http://open.163.com/special/opencourse/daishu.html)    
+- [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)      
+- [矩阵奇异值分解(SVD)及其应用（PCA）](https://www.jianshu.com/p/e574e91070ad)
+- [行列式的本质是什么？](https://www.matongxue.com/madocs/247.html#/madoc)
