@@ -12,7 +12,7 @@
 
 Keys：[Summary of knowledge (PDF)](LinearAlgebra.pdf)
 
-# Elementary theory of matrices
+# Elementary Theory of Matrices
 - A Concise Note by Kaare Brandt Petersen and Michael Syskind Pedersen: [Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
 
 # Articles
