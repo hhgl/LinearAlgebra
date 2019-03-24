@@ -19,10 +19,10 @@ Keys：[Summary of knowledge (PDF)](LinearAlgebra.pdf)
 
 # References
 - [清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about)       
-- [清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about)     
+- [清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about) 
+- [杜云涛同学的线性代数笔记](https://zealscott.com/blog/notes-on-linear-algebra/)
 - [理解矩阵—孟岩](https://blog.csdn.net/myan/article/details/647511)       
 - [超详细MIT线性代数公开课笔记(上中下)](https://wenku.baidu.com/view/daac42a977eeaeaad1f34693daef5ef7ba0d129a.html)
-- [杜云涛同学的线性代数笔记](https://zealscott.com/blog/notes-on-linear-algebra/)
 - Linear Algebra Should Done Right, Sheldon Axler
 - 高等代数简明教程， 蓝以中编著
 - 线性代数与矩阵论， 许以超编著
