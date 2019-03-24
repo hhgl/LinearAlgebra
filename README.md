@@ -2,13 +2,22 @@
 
 -------------------------------------------
 
+# Elementary Linear Algebra
+- N元N次线性方程组的矩阵表示与求解
+- 一般线性方程组的求解
+- 向量空间与方程近似解
+- 行列式
+- 特征值与特征向量
+- SVD与PCA
 
+Keys：[Summary of knowledge (PDF)](LinearAlgebra.pdf)
 
-
+# Articles
+- 
 
 -----------------------------------------------
 
-# 参考资料
+# References
 - [清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about)       
 - [清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about)     
 - [理解矩阵—孟岩](https://blog.csdn.net/myan/article/details/647511)       
